@@ -23,3 +23,5 @@ Node.js (em processo)
 Git & GitHub
 
 HTML / CSS 
+
+obs: sera feito um perfil de autenticação de usuários
