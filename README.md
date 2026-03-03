@@ -25,3 +25,5 @@ Git & GitHub
 HTML / CSS 
 
 obs: sera feito um perfil de autenticação de usuários
+
+*copie e desenvolva do seu jeito*
